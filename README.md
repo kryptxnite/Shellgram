@@ -48,5 +48,3 @@ python bot.py
 | `/download`  | Download file from target |
 | `/upload`    | Upload file to target     |
 | `/sysinfo`   | Show system information   |
-
-## 🖼 Screenshot Example
