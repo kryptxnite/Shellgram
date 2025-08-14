@@ -23,8 +23,8 @@ By using this software, you agree that you are solely responsible for any conseq
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/username/remote-admin-bot.git
-cd remote-admin-bot
+git clone https://github.com/kryptxnite/Shellgram.git
+cd Shellgram
 pip install -r requirements.txt
 ```
 
